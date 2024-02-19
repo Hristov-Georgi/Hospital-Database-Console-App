@@ -3,9 +3,14 @@
 
 If you are interested try my simple app :)
 
+You can:
+- add patients - by first name, last name, address, email, date of birth, path to picture, information whether he has medical insurance or not;
+- delete patients - by first name, last name, date of birth;
+- add visitations for registered patients;
+- add diagnoses to patients and prescribe medicaments for current diagnose.
 
-These are the requirements for task.
 
+This is the requirement for the task.
 
     4. Hospital Database
 Congrats! You were hired as a Junior Database App Developer. But before starting to work you were required to provide some documents such as a fit note from your GP. So, you go to him to get it. When you tell him, what you need and what kind of job you are about to start, he told you that he was just looking for someone to make a software to help him manage and keep data about his patients. He offered to give you the fit note for free if you help him. You thought that’s a great opportunity to save 20 leva and go out with friends tonight. Also it would expand your portfolio with 1 project.
